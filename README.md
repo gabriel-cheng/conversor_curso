@@ -1,3 +1,7 @@
-# conversor_curso
+# CONVERSOR CURSO
 
-A new Flutter project.
+Aprendendo a desenvolver aplicativos em Fluttler.
+
+# Redes Sociais
+
+## Linkedin → https://www.linkedin.com/in/diogo-espindola-da-silva-533b4515b/
